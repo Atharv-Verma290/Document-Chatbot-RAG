@@ -1,0 +1,10 @@
+langchain-core
+langchain-openai
+langchain
+langchain-community
+langchain-experimental
+langgraph
+langchain-chroma==0.2.2
+streamlit
+docx2txt
+pypdf
